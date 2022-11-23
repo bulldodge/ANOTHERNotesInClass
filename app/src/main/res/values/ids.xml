@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt_title" type="id">PlaceholderTitle</item>
+    <item name="edt_desc" type="id">PlaceholderDesc</item>
+    <item name="grp_rads" type="id">PlaceholderRads</item>
+    <item name="btn_submit" type="id">PlaceholderSub</item>
+</resources>
